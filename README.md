@@ -4,3 +4,6 @@ Added Development.
  - 1st Feature
  - 2nd Feature
  - 3rd Feature
+ 
+### Instructions
+Merging seems to get tricky
