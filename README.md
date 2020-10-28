@@ -1,2 +1,2 @@
 # Story Bot
-# story-bot
+We have baked this repo primarily for testing purposes.
