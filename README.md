@@ -6,4 +6,4 @@ Added Development.
  - 3rd Feature
  
 ### Instructions
-Merging seems to get tricky
+Merging seems to get tricky due to possible conflicts within changes.
