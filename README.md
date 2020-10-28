@@ -1,4 +1,5 @@
 # Story Bot
 We have baked this repo primarily for testing purposes.
-* Added Development.
+Added Development.
  - 1st Feature
+ - 2nd Feature
